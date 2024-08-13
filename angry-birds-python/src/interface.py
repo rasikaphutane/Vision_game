@@ -18,9 +18,9 @@ canvas.pack(fill=tk.BOTH, expand=True)
 # Load and place your content here
 
 # Load logo images
-dnt_logo_path = "/home/radhika/VirtualMouse_openCV/DNT_logo.png"
-logo1_path = "/home/radhika/VirtualMouse_openCV/angry_birds.png"
-logo2_path = "/home/radhika/VirtualMouse_openCV/hill_climb_racing.png"
+dnt_logo_path = "/home/rasika/DNT_vision_games/DNT_logo.png"
+logo1_path = "/home/rasika/DNT_vision_games/angry_birds.png"
+logo2_path = "/home/rasika/DNT_vision_games/hill_climb_racing.png"
 
 dnt_logo = tk.PhotoImage(file=dnt_logo_path)
 logo1 = tk.PhotoImage(file=logo1_path)
